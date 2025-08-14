@@ -20,7 +20,7 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Tetorium 
   rotate: false
-  xy: 500, 225
+  xy: 555, 225
   size: 100, 100
   orig: 1500, 500
   offset: 0, 0
