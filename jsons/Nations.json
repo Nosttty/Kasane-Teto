@@ -9,10 +9,10 @@
 		"startIntroPart1": "Tetorium, nación de fuerza y producción.",
         "startIntroPart2": "Desde llanuras y colinas, su ejército avanza.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Tetorium declara guerra, la maquinaria militar se pone en marcha.",
+        "attacked": "Tetorium ha sido atacada. ¡Defiendan sus ciudades!",
+        "defeated": "Tetorium ha caído, pero su espíritu de guerra no se olvida.",
+        "introduction": "Kasane Teto lidera Tetorium, una nación de fuerza, disciplina y producción.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
