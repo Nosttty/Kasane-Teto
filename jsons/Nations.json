@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Teto",
+		"name": "Tetorium",
+		"leaderName": "Kasane Teto",
 		"adjective": ["Pear"],
-		"startBias": [""],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
