@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Teto's Worker",
-		"replace": "Worker",
+		"replaces": "Worker",
 		"uniqueTo": "Tetorium",
 		"unitType": "Civilian",
 		"movement": 4,
