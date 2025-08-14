@@ -4,20 +4,6 @@ size: 1500, 500
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
-  rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Holodeck
-  rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Tetorium 
   rotate: false
   xy: 555, 225
@@ -25,10 +11,10 @@ NationIcons/Tetorium
   orig: 1500, 500
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+LeaderIcons/Kasane Teto 
   rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 736
+  size: 250, 250
+  orig: 1500, 500
   offset: 0, 0
   index: -1
