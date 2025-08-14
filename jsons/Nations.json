@@ -19,10 +19,10 @@
         "neutralNo": "Negativo.",
         "neutralYes": "Afirmativo."
 		
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+        "hateHello": "¿Qué quieres ahora?",
+        "hateLetsHearIt": "Habla rápido.",
+        "hateNo": "Jamás.",
+        "hateYes": "Está bien… por ahora."
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
