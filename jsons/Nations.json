@@ -24,9 +24,9 @@
         "hateNo": "Jamás.",
         "hateYes": "Está bien… por ahora."
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
+        "afterPeace": "La tregua se mantiene… por ahora.",
+        "tradeRequest": "Propon tu intercambio."
+		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
