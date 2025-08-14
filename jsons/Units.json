@@ -1,9 +1,11 @@
 [
 	{
-		"name": "Worker",
+		"name": "Teto's Worker",
+		"replace": "Worker",
+		"uniqueTo": "Tetorium",
 		"unitType": "Civilian",
-		"movement": 2,
+		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 70
+		"cost": 50
 	}
 ]
