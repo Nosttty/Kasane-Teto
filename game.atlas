@@ -1,4 +1,3 @@
-
 game.png
 size: 1500, 500
 format: RGBA8888
@@ -13,8 +12,8 @@ NationIcons/Tetorium
   index: -1
 LeaderIcons/Kasane Teto 
   rotate: false
-  xy: 4, 736
-  size: 250, 250
+  xy: 0, 0
+  size: 512, 500
   orig: 1500, 500
   offset: 0, 0
   index: -1
