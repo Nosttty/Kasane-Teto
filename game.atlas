@@ -17,3 +17,10 @@ LeaderIcons/Kasane Teto
   orig: 1500, 500
   offset: 0, 0
   index: -1
+UnitIcons/Teto's Worker
+  rotate: false
+  xy: 1036, 628
+  size: 80, 100
+  orig: 1500, 500
+  offset: 0, 0
+  index: -1
