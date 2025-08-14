@@ -30,7 +30,7 @@
 		
 		"outerColor": [255,0,69],
 		"innerColor": [255,255,255],
-		"unique": "+100% Production when building [Melee] units [in all cities]",
+		"unique": "[+10 Production] [in all cities]","[+10]% [Production] [in all cities]","+100% Production when building [Melee] units [in all cities]",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
