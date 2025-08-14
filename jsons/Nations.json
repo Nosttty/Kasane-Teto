@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Tetorium",
+		"uniqueName": "",
 		"leaderName": "Kasane Teto",
 		"adjective": ["Pear"],
 		"startBias": ["Plains"],
