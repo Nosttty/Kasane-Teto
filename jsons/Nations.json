@@ -30,7 +30,7 @@
 		
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,69],
-		"uniques": ["Can build [All] improvements at a [+200]% rate","[+100]% Production when constructing [All] units [in all cities]", "[+200]% [Strategic] resource production",
+		"uniques": ["Can build [All] improvements at a [+200]% rate","[+200]% Production when constructing [All] units [in all cities]", "[+200]% [Strategic] resource production",
 		            "[+200]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[+200]% Strength <for [Wounded] units>","[+200]% Strength <for [All] units> <when adjacent to a [All] unit>"],
 		"cities": ["Tetorium District","Tetorium District2","Tetorium District3","Tetorium District4","Tetorium District5","Tetorium District6","Tetorium District7","Tetorium District8","Tetorium District9",
 			"Tetorium District10","Tetorium District11","Tetorium District12","Tetorium District13","Tetorium District14","Tetorium District15","Tetorium District16","Tetorium District17","Tetorium District18","Tetorium District19",
