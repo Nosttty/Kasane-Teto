@@ -30,9 +30,9 @@
 		
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,69],
-		"uniques": ["[+3 Production] from every [Strategic resource]","[+25 Production]","[+25]% [Production]","[+25]% [Horses] resource production",
-			        "[+25]% [Iron] resource production","[+25]% [Uranium] resource production","All newly-trained [{Military} {Land}] units [in all cities] receive the [Drill I] promotion","All newly-trained [{Military} {Land}] units [in all cities] receive the [Shock I] promotion","All newly-trained [{Military} {Land}] units [in all cities] receive the [Cover I] promotion","Can build [All] improvements at a [+25]% rate","[+25]% Production when constructing [All] units [in all cities]", "[+25]% [Strategic] resource production",
-		            "[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[+25]% Strength <for [Wounded] units>","[+25]% Strength <for [All] units> <when adjacent to a [All] unit>"],
+		"uniques": ["[+3 Production] from every [Strategic resource]","[+80 Production]","[+80]% [Production]","[+80]% [Horses] resource production",
+			        "[+80]% [Iron] resource production","[+80]% [Uranium] resource production","All newly-trained [{Military} {Land}] units [in all cities] receive the [Drill I] promotion","All newly-trained [{Military} {Land}] units [in all cities] receive the [Shock I] promotion","All newly-trained [{Military} {Land}] units [in all cities] receive the [Cover I] promotion","Can build [All] improvements at a [+80]% rate","[+80]% Production when constructing [All] units [in all cities]", "[+80]% [Strategic] resource production",
+		            "[+80]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[+80]% Strength <for [Wounded] units>","[+80]% Strength <for [Melee] units> <when adjacent to a [All] unit>"],
 		"cities": ["Tetorium District","Tetorium District2","Tetorium District3","Tetorium District4","Tetorium District5","Tetorium District6","Tetorium District7","Tetorium District8","Tetorium District9",
 			"Tetorium District10","Tetorium District11","Tetorium District12","Tetorium District13","Tetorium District14","Tetorium District15","Tetorium District16","Tetorium District17","Tetorium District18","Tetorium District19",
 			"Tetorium District20","Tetorium District21","Tetorium District22","Tetorium District23","Tetorium District24","Tetorium District25","Tetorium District26","Tetorium District27","Tetorium District28","Tetorium District29",
