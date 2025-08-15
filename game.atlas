@@ -17,6 +17,13 @@ LeaderIcons/Kasane Teto
   orig: 1500, 500
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Teto's Worker
+  rotate: false
+  xy: 220, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 UnitIcons/Teto's Worker
   rotate: false
   xy: 662, 225
