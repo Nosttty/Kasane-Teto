@@ -30,8 +30,8 @@
 		
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,69],
-		"uniques": ["[-75]% Unhappiness from [Population] [In all cities] <when at war>","Can build [All] improvements at a [+125]% rate","[+100]% Production when constructing [All] units [in all cities]",
-		            "[+100]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[+100]% Strength <for [Wounded] units>","[+100]% Strength <for [All] units> <when adjacent to a [All] unit>"],
+		"uniques": ["Can build [All] improvements at a [+150]% rate","[+100]% Production when constructing [All] units [in all cities]",
+		            "[+150]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[+150]% Strength <for [Wounded] units>","[+150]% Strength <for [All] units> <when adjacent to a [All] unit>"],
 		"cities": ["Tetorium District","Tetorium District2","Tetorium District3","Tetorium District4","Tetorium District5","Tetorium District6","Tetorium District7","Tetorium District8","Tetorium District9",
 			"Tetorium District10","Tetorium District11","Tetorium District12","Tetorium District13","Tetorium District14","Tetorium District15","Tetorium District16","Tetorium District17","Tetorium District18","Tetorium District19",
 			"Tetorium District20","Tetorium District21","Tetorium District22","Tetorium District23","Tetorium District24","Tetorium District25","Tetorium District26","Tetorium District27","Tetorium District28","Tetorium District29",
