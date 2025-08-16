@@ -30,7 +30,7 @@
 		
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,69],
-		"uniques": ["[+80 Production, +80 Happiness, +80 Science] from every [Strategic resource]","[+80 Production]","[+80]% [Production]","[+80]% [Horses] resource production",
+		"uniques": ["[+80 Production, +80 Happiness, +80 Science] from every [Strategic resource]","Starts with [Animal Husbandry]","[+80 Production]","[+80]% [Production]","[+80]% [Horses] resource production",
 			        "[+80]% [Iron] resource production","[+80]% [Uranium] resource production","All newly-trained [{Military} {Land}] units [in all cities] receive the [Drill I] promotion","All newly-trained [{Military} {Land}] units [in all cities] receive the [Shock I] promotion","All newly-trained [{Military} {Land}] units [in all cities] receive the [Cover I] promotion","Can build [All] improvements at a [+80]% rate","[+80]% Production when constructing [All] units [in all cities]", "[+80]% [Strategic] resource production",
 		            "[+80]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","[+80]% Strength <for [Wounded] units>","[+80]% Strength <for [All] units> <when adjacent to a [All] unit>"],
 		"cities": ["Tetorium District","Tetorium District2","Tetorium District3","Tetorium District4","Tetorium District5","Tetorium District6","Tetorium District7","Tetorium District8","Tetorium District9",
