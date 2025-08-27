@@ -13,7 +13,7 @@
 		"replaces": "Warrior",
 		"uniqueTo": "Tetorium",
 		"unitType": "Sword",
-		"movement": 2,
+		"movement": 4,
 		"strength": 12,
 		"cost": 20,
 		"obsoleteTech": "Metal Casting",
