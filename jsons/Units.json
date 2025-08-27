@@ -21,6 +21,6 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
+		{"text": "This is your basic, club-swinging fighter."},
 	}
 ]
