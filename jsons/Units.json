@@ -14,11 +14,11 @@
 		"uniqueTo": "Tetorium",
 		"unitType": "Sword",
 		"movement": 4,
-		"strength": 12,
-		"cost": 20,
+		"strength": 120,
+		"cost": 10,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","Heals [500] damage if it kills a unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 		{"text": "This is your basic, club-swinging fighter."}]
