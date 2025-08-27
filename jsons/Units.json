@@ -4,16 +4,16 @@
 		"replaces": "Worker",
 		"uniqueTo": "Tetorium",
 		"unitType": "Civilian",
-		"movement": 6,
+		"movement": 8,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 50
+		"cost": 10
 	},
 	{
 		"name": "Teto's Warrior",
 		"replaces": "Warrior",
 		"uniqueTo": "Tetorium",
 		"unitType": "Sword",
-		"movement": 4,
+		"movement": 5,
 		"strength": 120,
 		"cost": 10,
 		"obsoleteTech": "Metal Casting",
