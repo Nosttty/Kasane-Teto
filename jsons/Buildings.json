@@ -2,6 +2,7 @@
 {
 	"name": "Teto's Walls",
 	"replace": "Walls",
+	"uniqueTo": "Tetorium",
 	"cityStrength": 5,
 	"cityHealth": 50,
 	"hurryCostModifier": 25,
