@@ -4,7 +4,7 @@
 		"replaces": "Worker",
 		"uniqueTo": "Tetorium",
 		"unitType": "Civilian",
-		"movement": 4,
+		"movement": 6,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 50
 	}
