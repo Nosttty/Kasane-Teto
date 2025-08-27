@@ -3,8 +3,8 @@
 	"name": "Teto's Walls",
 	"replace": "Walls",
 	"uniqueTo": "Tetorium",
-	"cityStrength": 5,
-	"cityHealth": 50,
+	"cityStrength": 500,
+	"cityHealth": 500,
 	"hurryCostModifier": 25,
 	"requiredTech": "Masonry",
 	"uniques": ["Destroyed when the city is captured"]
