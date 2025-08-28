@@ -31,7 +31,6 @@
 		"strength": 80000,
 		"rangedStrength": 80000,
 		"cost": 10,
-		"requiredTech": "Archery",
 		"upgradesTo": "Composite Bowman",
 		"uniques": ["Withdraws before melee combat <with [100]% chance>"]
 		"attackSound": "arrow"
