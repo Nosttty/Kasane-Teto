@@ -18,6 +18,6 @@
 	"hurryCostModifier": 25,
 	"percentStatBonus": {"gold": 80000},
 	"requiredTech": "Currency"
-	"uniques": ["Destroyed when the city is captured","Indicates the capital city"]
+	"uniques": ["Indicates the capital city"]
 }
 ]
