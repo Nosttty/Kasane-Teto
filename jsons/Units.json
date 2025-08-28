@@ -5,7 +5,7 @@
 		"uniqueTo": "Tetorium",
 		"unitType": "Civilian",
 		"movement": 8,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Withdraws before melee combat <with [100]% chance>"],
 		"cost": 10
 	},
 	{
