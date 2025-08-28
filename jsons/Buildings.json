@@ -6,7 +6,6 @@
 	"cityStrength": 80000,
 	"cityHealth": 80000,
 	"hurryCostModifier": 25,
-	"requiredTech": "Masonry",
 	"uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 },
 {
@@ -17,7 +16,6 @@
 	"specialistSlots": {"Merchant": 3},
 	"hurryCostModifier": 25,
 	"percentStatBonus": {"gold": 80000},
-	"requiredTech": "Currency"
     "uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 }
 ]
