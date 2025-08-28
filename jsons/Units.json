@@ -4,7 +4,7 @@
 		"replaces": "Worker",
 		"uniqueTo": "Tetorium",
 		"unitType": "Civilian",
-		"movement": 8,
+		"movement": 9,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Withdraws before melee combat <with [100]% chance>"],
 		"cost": 10
 	},
@@ -13,7 +13,7 @@
 		"replaces": "Warrior",
 		"uniqueTo": "Tetorium",
 		"unitType": "Sword",
-		"movement": 5,
+		"movement": 9,
 		"strength": 80000,
 		"cost": 10,
 		"upgradesTo": "Swordsman",
