@@ -31,6 +31,13 @@ TileSets/FantasyHex/Units/Teto's Warrior
   orig: 1500, 500
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Teto's Archer
+  rotate: false
+  xy: 486, 85
+  size: 32, 32
+  orig: 1500, 500
+  offset: 0, 0
+  index: -1
 UnitIcons/Teto's Worker
   rotate: false
   xy: 662, 225
