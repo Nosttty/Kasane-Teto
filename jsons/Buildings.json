@@ -14,10 +14,10 @@
 	"replaces": "Market",
 	"uniqueTo": "Tetorium",
 	"gold": 80000,
-	"specialistSlots": {"Merchant": 80000},
+	"specialistSlots": {"Merchant": 3},
 	"hurryCostModifier": 25,
 	"percentStatBonus": {"gold": 80000},
 	"requiredTech": "Currency"
-	"uniques": ["Indicates the capital city"]
+    "uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 }
 ]
