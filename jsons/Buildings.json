@@ -5,7 +5,7 @@
 	"uniqueTo": "Tetorium",
 	"cityStrength": 80000,
 	"cityHealth": 80000,
-	"hurryCostModifier": 25,
+	"hurryCostModifier": 5,
 	"uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 },
 {
@@ -14,7 +14,7 @@
 	"uniqueTo": "Tetorium",
 	"gold": 80000,
 	"specialistSlots": {"Merchant": 3},
-	"hurryCostModifier": 25,
+	"hurryCostModifier": 5,
 	"percentStatBonus": {"gold": 80000},
     "uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 }
