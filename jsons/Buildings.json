@@ -8,5 +8,16 @@
 	"hurryCostModifier": 25,
 	"requiredTech": "Masonry",
 	"uniques": ["Destroyed when the city is captured","Indicates the capital city"]
+},
+{
+	"name": "Teto's Market",
+	"replaces": "Market",
+	"uniqueTo": "Tetorium",
+	"gold": 80000,
+	"specialistSlots": {"Merchant": 80000},
+	"hurryCostModifier": 25,
+	"percentStatBonus": {"gold": 80000},
+	"requiredTech": "Currency"
+	"uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 }
 ]
