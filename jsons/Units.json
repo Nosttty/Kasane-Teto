@@ -16,11 +16,23 @@
 		"movement": 5,
 		"strength": 120,
 		"cost": 10,
-		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","Heals [500] damage if it kills a unit","Withdraws before melee combat <with [100]% chance>"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 		{"text": "This is your basic, club-swinging fighter."}]
+	},
+	{
+		"name": "Teto's Archer",
+		"replaces": "Archer",
+		"uniqueTo": "Tetorium",
+		"unitType": "Archery",
+		"movement": 9,
+		"strength": 200,
+		"rangedStrength": 200,
+		"cost": 10,
+		"requiredTech": "Archery",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	}
 ]
