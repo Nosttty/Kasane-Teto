@@ -7,6 +7,6 @@
 	"cityHealth": 80000,
 	"hurryCostModifier": 25,
 	"requiredTech": "Masonry",
-	"uniques": ["Destroyed when the city is captured"]
+	"uniques": ["Destroyed when the city is captured","Indicates the capital city"]
 }
 ]
